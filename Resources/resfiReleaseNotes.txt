@@ -1,0 +1,21 @@
+Body Composition Calculator Release Notes:
+
+Note: Special markings key is located at bottom of release notes.
+
+
+Version 1.5.6.3 - INITIAL RELEASE
+
+Fixes: 
+     
+Bugs: 
+     
+     
+Special Markings: 
+An asterisk (*) before a bug signifies that it was found after the release notes were finalized for that build.
+A double asterisk (**) before a bug or fix signifies a feature that broke due to website maintenance.
+An asterisk and a capital P (*P) before a bug signifies a postponed bug.
+An asterisk and a capital R (*R) before a fix signifies a requested feature.
+
+
+Body Composition Calculator © Copyright 2007 - 2009 FullForce Applications.  All rights reserved.
+Questions? Comments? Contact us at:   support@fullforceapps.com

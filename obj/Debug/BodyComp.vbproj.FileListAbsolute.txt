@@ -1,0 +1,29 @@
+C:\Users\Braden\repos\Body-Composition-Calculator\bin\Debug\Body Composition Calculator.exe.config
+C:\Users\Braden\repos\Body-Composition-Calculator\bin\Debug\Body Composition Calculator.exe.manifest
+C:\Users\Braden\repos\Body-Composition-Calculator\bin\Debug\Body Composition Calculator.application
+C:\Users\Braden\repos\Body-Composition-Calculator\bin\Debug\Body Composition Calculator.exe
+C:\Users\Braden\repos\Body-Composition-Calculator\bin\Debug\Body Composition Calculator.pdb
+C:\Users\Braden\repos\Body-Composition-Calculator\bin\Debug\Body Composition Calculator.xml
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmGUIDGen.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmMD5Hasher.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmAbout.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmDevMode.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmDevSettings.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmUpdate.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmHelp.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmReleaseNotes.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmResults.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmDevLogin.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmMain.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.Resources.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmSplashScreen.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\BodyComp.frmTempResults.resources
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\ResGen.read.1.tlog
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\ResGen.write.1.tlog
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\Body Composition Calculator.TrustInfo.xml
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\Body Composition Calculator.exe.manifest
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\Body Composition Calculator.application
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\Body Composition Calculator.exe
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\Body Composition Calculator.xml
+C:\Users\Braden\repos\Body-Composition-Calculator\obj\Debug\Body Composition Calculator.pdb

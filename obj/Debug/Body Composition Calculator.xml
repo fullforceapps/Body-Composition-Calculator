@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BodyCompositionCalculator
+</name>
+</assembly>
+<members>
+<member name="P:BodyComp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BodyComp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BodyComp.My.Resources.Resources.resfiReleaseNotes">
+	<summary>
+  Looks up a localized string similar to Body Composition Calculator Release Notes:
+
+Note: Special markings key is located at bottom of release notes.
+
+
+Version 1.5.6.3 - INITIAL RELEASE
+
+Fixes: 
+     
+Bugs: 
+     
+     
+Special Markings: 
+An asterisk (*) before a bug signifies that it was found after the release notes were finalized for that build.
+A double asterisk (**) before a bug or fix signifies a feature that broke due to website maintenance.
+An asterisk and a capital P (*P) before a bug signifies a postponed bug.
+An asteris [rest of string was truncated]";.
+</summary>
+</member><member name="T:BodyComp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

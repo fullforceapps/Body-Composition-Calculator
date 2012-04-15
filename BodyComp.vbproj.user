@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Documents and Settings\10licabrad\Desktop\|C:\Users\Braden\Desktop\|C:\Documents and Settings\10licabrad\Desktop\bccpublish\|C:\Documents and Settings\10licabrad\Desktop\Computer Files\Programs\xampp\htdocs\app_deployment\bcc\update\|http://download.fullforceapps.com/bcc/en/v10/</PublishUrlHistory>
+    <InstallUrlHistory>http://download.fullforceapps.com/bcc/en/v15/|http://download.fullforceapps.com/bcc/en/v10/|http://www.freewebs.com/bradenscomprepair/download/bcc/|http://fullforceapps.byethost7.com/download/bcc/|http://peacho.vectorfive.net/bcc/update/</InstallUrlHistory>
+    <SupportUrlHistory>http://support.fullforceapps.com/bcc/en/|http://support.fullforceapps.byethost7.com/bcc/en/|http://fullforceapps.byethost7.com/support/bcc/index.htm|http://fullforceapps.byethost7.com/support/bcc/|http://fullforceapps.byethost7.com/</SupportUrlHistory>
+    <UpdateUrlHistory>http://update.fullforceapps.com/bcc/en/v15/|http://update.fullforceapps.com/bcc/en/v10/|http://update.fullforceapps.byethost7.com/bcc/en/v10/|http://update.fullforceapps.com/|http://localhost/app_deployment/bcc/update/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>BodyComp.My.Resources.Resources</BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>
